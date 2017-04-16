@@ -52,7 +52,7 @@
 * Serial terminal interface
 * Lots of examples with python/c/perl/etc
 
-### [GoodFET](http://goodfet.sourceforge.net/[GreatFET](http://greatscottgadgets.com/greatfet/)
+### [GoodFET](http://goodfet.sourceforge.net/)[GreatFET](http://greatscottgadgets.com/greatfet/)
 * Open-source JTAG adapter turned general purpose USB-various peripheral interface
 * GreatFET is HS USB version (in development) with many more capabilities
 
